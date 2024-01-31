@@ -1,4 +1,4 @@
-![PCPU-NANO1]([https://github.com/Pepe-57/esp-cf/blob/main/esp-cf_logo.jpg](https://github.com/Pepe-57/pcpu-nano1/blob/main/pcpu_nano1.jpg))
+![PCPU-NANO1](https://github.com/Pepe-57/pcpu-nano1/blob/main/pcpu_nano1.jpg)
 # PCPU-NANO1
 Simple 1-bit cpu made from transistors
 ## 1-bit Processor
