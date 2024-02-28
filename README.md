@@ -1,6 +1,7 @@
 ![PCPU-NANO1](https://github.com/Pepe-57/pcpu-nano1/blob/main/pcpu_nano1.jpg)
 # PCPU-NANO1
-Simple 1-bit cpu made from transistors
+Simple 1-bit cpu made from transistors.
+[OS made for Pcpu-Nano1](https://github.com/Pepe-57/nano-os)
 ## 1-bit Processor
 Minimalistic 1-bit cpu made from npn transistors and resistors
 
